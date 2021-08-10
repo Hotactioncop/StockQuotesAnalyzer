@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/Down.ico</file>
+        <file>Images/Up.ico</file>
+        <file>Images/market.ico</file>
+        <file>Images/arrow.ico</file>
+        <file>Images/cross.ico</file>
+        <file>Images/slide.ico</file>
+        <file>Images/checked.ico</file>
+        <file>Images/unchecked.ico</file>
+    </qresource>
+</RCC>
